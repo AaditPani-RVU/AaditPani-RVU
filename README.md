@@ -35,7 +35,7 @@
   ### CONTRIBUTION TELEMETRY
 
   <div align="center">
-    <img src="./snake-dark.svg" alt="Contribution Graph" width="100%" />
+    <img src="https://raw.githubusercontent.com/AaditPani-RVU/AaditPani-RVU/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" width="100%" />
     <br/>
     <sub><code>NEURAL_ACTIVITY_LOG :: commit history visualized as autonomous signal propagation</code></sub>
   </div>
