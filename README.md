@@ -16,8 +16,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AaditPani-RVU&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=f59e0b&text_color=e2e8f0&bg_color=0d0d0d&rin
-  g_color=00b4d8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AaditPani-RVU&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=f59e0b&text_color=e2e8f0&bg_color=0d0d0d&ring_color=00b4d8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com?user=AaditPani-RVU&theme=transparent&hide_border=true&ring=00b4d8&fire=f59e0b&currStreakLabel=e2e8f0&sideLabels=64748b&dates=64748b&background=0d0d0d"
@@ -28,8 +27,7 @@
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaditPani-RVU&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e2e8f0&bg_color=0d0d0d&langs_count=8&h
-  ide=jupyter%20notebook,html" alt="Top Languages" width="860" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaditPani-RVU&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e2e8f0&bg_color=0d0d0d&langs_count=8&hide=jupyter%20notebook,html" alt="Top Languages" width="860" />
   </div>
 
   ---
@@ -37,7 +35,7 @@
   ### CONTRIBUTION TELEMETRY
 
   <div align="center">
-    <img src="./generated/snake-dark.svg" alt="Contribution Graph" width="100%" />
+    <img src="./snake-dark.svg" alt="Contribution Graph" width="100%" />
     <br/>
     <sub><code>NEURAL_ACTIVITY_LOG :: commit history visualized as autonomous signal propagation</code></sub>
   </div>
