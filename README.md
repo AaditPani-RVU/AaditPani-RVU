@@ -4,31 +4,8 @@
 
   ---
 
-  ## // COMMAND_CENTER
-
-  <div align="center">
-  <table>
-    <tr>
-      <td valign="top"><pre>SYSTEM_STATUS
-  ──────────────────
-  STATUS     NOMINAL
-  UPTIME     CONTINUOUS
-  MODE       BUILDER
-  FOCUS      EDGE · INFERENCE · SYSTEMS</pre></td>
-      <td valign="top"><pre>CURRENT_OBJECTIVE
-  ──────────────────
-  ⬡  Deploying neuro-symbolic guardrails
-  ⬡  CUDA kernel optimization research
-  ⬡  Edge inference pipeline architecture
-  ⬡  IDS anomaly detection models</pre></td>
-      <td valign="top"><pre>LOCATION_VECTOR
-  ──────────────────
-  NODE       India
-  INSTITUTE  RVU, Bengaluru
-  TIMEZONE   UTC+05:30
-  SIGNAL     ACTIVE</pre></td>
-    </tr>
-  </table>
+   <div align="center">
+    <img src="command-center.svg" alt="Command Center" width="100%" />
   </div>
 
   ---
