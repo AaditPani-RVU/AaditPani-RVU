@@ -1,16 +1,251 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/banner.svg" alt="Aadit Pani — Adaptive AI Systems Engineer" width="100%" />
+</div>
 
-<!--
-**AaditPani-RVU/AaditPani-RVU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## // COMMAND_CENTER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<table>
+  <tr>
+    <td>
+
+```
+SYSTEM_STATUS
+──────────────────
+STATUS     NOMINAL
+UPTIME     CONTINUOUS
+MODE       BUILDER
+FOCUS      EDGE · INFERENCE · SYSTEMS
+```
+
+    </td>
+    <td>
+
+```
+CURRENT_OBJECTIVE
+──────────────────
+⬡  Deploying neuro-symbolic guardrails
+⬡  CUDA kernel optimization research
+⬡  Edge inference pipeline architecture
+⬡  IDS anomaly detection models
+```
+
+    </td>
+    <td>
+
+```
+LOCATION_VECTOR
+──────────────────
+NODE       India
+INSTITUTE  RVU, Bengaluru
+TIMEZONE   UTC+05:30
+SIGNAL     ACTIVE
+```
+
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## // SYSTEM_PULSE
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AaditPani-RVU&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=f59e0b&text_color=e2e8f0&bg_color=0d0d0d&ring_color=00b4d8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=AaditPani-RVU&theme=transparent&hide_border=true&ring=00b4d8&fire=f59e0b&currStreakLabel=e2e8f0&sideLabels=64748b&dates=64748b&background=0d0d0d" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaditPani-RVU&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e2e8f0&bg_color=0d0d0d&langs_count=8&hide=jupyter%20notebook,html" alt="Top Languages" width="100%" />
+
+---
+
+## // CONTRIBUTION_TELEMETRY
+
+<div align="center">
+  <img src="./generated/snake-dark.svg" alt="Contribution Graph" width="100%" />
+</div>
+
+<div align="center">
+  <sub><code>NEURAL_ACTIVITY_LOG :: commit history visualized as autonomous signal propagation</code></sub>
+</div>
+
+---
+
+## // RUNTIME_STACK
+
+<div align="center">
+
+**INFERENCE_RUNTIME**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-00B4D8?style=flat-square&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+**SYSTEMS_LAYER**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+
+**INFRASTRUCTURE**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+
+**DATA_LAYER**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</div>
+
+---
+
+## // ACTIVE_DEPLOYMENTS
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AaditPani-RVU/neurosym-ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=neurosym-ai&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e2e8f0&bg_color=0d0d0d&icon_color=f59e0b" alt="neurosym-ai" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AaditPani-RVU">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=AaditPani-RVU&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e2e8f0&bg_color=0d0d0d&icon_color=f59e0b" alt="AaditPani-RVU" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<sub>
+<code>[ neurosym-ai ]</code> · neuro-symbolic rule engine · output guards · streaming · agent system
+</sub>
+</div>
+
+---
+
+## // AI_SYSTEMS_SURFACE
+
+| DOMAIN | CAPABILITY | STATUS |
+|:---|:---|:---:|
+| Edge Inference | TensorRT · ONNX · quantization | ![ACTIVE](https://img.shields.io/badge/ACTIVE-22c55e?style=flat-square) |
+| Anomaly Detection | IDS · unsupervised · LSTM | ![ACTIVE](https://img.shields.io/badge/ACTIVE-22c55e?style=flat-square) |
+| Neuro-Symbolic AI | rule engines · guardrails · SMT | ![ACTIVE](https://img.shields.io/badge/ACTIVE-22c55e?style=flat-square) |
+| Computer Vision | object detection · segmentation | ![RESEARCH](https://img.shields.io/badge/RESEARCH-f59e0b?style=flat-square) |
+| CUDA Optimization | kernel fusion · memory bandwidth | ![ACTIVE](https://img.shields.io/badge/ACTIVE-22c55e?style=flat-square) |
+| Autonomous Pipelines | DAG orchestration · agents | ![BUILDING](https://img.shields.io/badge/BUILDING-64748b?style=flat-square) |
+| LLM Guardrails | output guards · streaming rules | ![DEPLOYED](https://img.shields.io/badge/DEPLOYED-22c55e?style=flat-square) |
+| Impact Forecasting | symbolic + LLM hybrid analysis | ![BUILDING](https://img.shields.io/badge/BUILDING-64748b?style=flat-square) |
+
+---
+
+## // WAKATIME_TELEMETRY
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AaditPaniRVU&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e2e8f0&bg_color=0d0d0d&layout=compact" alt="WakaTime Stats" width="100%" />
+
+<div align="center">
+  <sub><code>TELEMETRY_SOURCE :: WakaTime · rolling 7-day window · auto-synced</code></sub>
+</div>
+
+---
+
+## // LIVE_FEED
+
+<div align="center">
+
+![ACTIVE](https://img.shields.io/badge/ACTIVE__THREAD-00b4d8?style=flat-square) Building v0.4.0 of neurosym-ai — repair loop telemetry + policy diff engine
+
+![RESEARCH](https://img.shields.io/badge/RESEARCH-f59e0b?style=flat-square) CUDA warp-level primitives for batched inference kernels
+
+![MONITORING](https://img.shields.io/badge/MONITORING-64748b?style=flat-square) Edge IDS false-positive rate on embedded deployment
+
+![NEXT](https://img.shields.io/badge/NEXT-22c55e?style=flat-square) TensorRT-LLM integration for quantized edge model serving
+
+</div>
+
+---
+
+## // INFRASTRUCTURE_SURFACE
+
+<div align="center">
+<table>
+  <tr>
+    <td align="left">
+
+**CONTAINER_OPS**
+
+Docker · Compose · BuildKit  
+Multi-stage builds  
+Image optimization
+
+    </td>
+    <td align="left">
+
+**PIPELINE_INFRA**
+
+GitHub Actions · CI/CD  
+Artifact registries  
+Automated test gates
+
+    </td>
+    <td align="left">
+
+**EDGE_SYSTEMS**
+
+Raspberry Pi · Jetson  
+ARM64 inference  
+TFLite · ONNX Runtime
+
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## // OPEN_CHANNEL
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AaditPani-RVU)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pinky.mohapatra@gmail.com)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/neurosym-ai/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="divider" width="100%" />
+  <br/>
+  <sub>
+    <code>SYSTEM :: AaditPani-RVU/AaditPani-RVU · BUILD 2025 · AUTONOMOUS</code>
+  </sub>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=AaditPani-RVU&style=flat-square&color=00b4d8&label=PROFILE_SCANS" alt="Profile Views" />
+</div>
