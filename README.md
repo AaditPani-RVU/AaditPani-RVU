@@ -1,16 +1,16 @@
-  <div align="center">
+ <div align="center">
     <img src="./assets/banner.svg" alt="Aadit Pani — Adaptive AI Systems Engineer" width="100%" />
   </div>
 
   ---
 
-   <div align="center">
-    <img src="command-center.svg" alt="Command Center" width="100%" />
+  <div align="center">
+    <img src="./command-center.svg" alt="Command Center" width="100%" />
   </div>
 
   ---
 
-  ## // SYSTEM_PULSE
+  ### SYSTEM PULSE
 
   <div align="center">
   <table>
@@ -20,8 +20,7 @@
   g_color=00b4d8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=AaditPani-RVU&theme=transparent&hide_border=true&ring=00b4d8&fire=f59e0b&currStreakLabel=e2e8f0&sideLabels=64748b&dates=64748b&background=0d0d0d"
+        <img src="https://streak-stats.demolab.com?user=AaditPani-RVU&theme=transparent&hide_border=true&ring=00b4d8&fire=f59e0b&currStreakLabel=e2e8f0&sideLabels=64748b&dates=64748b&background=0d0d0d"
   alt="GitHub Streak" />
       </td>
     </tr>
@@ -35,7 +34,7 @@
 
   ---
 
-  ## // CONTRIBUTION_TELEMETRY
+  ### CONTRIBUTION TELEMETRY
 
   <div align="center">
     <img src="./generated/snake-dark.svg" alt="Contribution Graph" width="100%" />
@@ -45,11 +44,11 @@
 
   ---
 
-  ## // RUNTIME_STACK
+  ### RUNTIME STACK
 
   <div align="center">
 
-  <sup><strong>INFERENCE_RUNTIME</strong></sup>
+  <sup><strong>INFERENCE RUNTIME</strong></sup>
 
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -57,7 +56,7 @@
   ![ONNX](https://img.shields.io/badge/ONNX-00B4D8?style=flat-square&logo=onnx&logoColor=white)
   ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-  <sup><strong>SYSTEMS_LAYER</strong></sup>
+  <sup><strong>SYSTEMS LAYER</strong></sup>
 
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -73,7 +72,7 @@
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
   ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
-  <sup><strong>DATA_LAYER</strong></sup>
+  <sup><strong>DATA LAYER</strong></sup>
 
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -84,7 +83,7 @@
 
   ---
 
-  ## // ACTIVE_DEPLOYMENTS
+  ### ACTIVE DEPLOYMENTS
 
   <div align="center">
   <table>
@@ -110,7 +109,7 @@
 
   ---
 
-  ## // AI_SYSTEMS_SURFACE
+  ### AI SYSTEMS SURFACE
 
   | DOMAIN | CAPABILITY | STATUS |
   |:---|:---|:---:|
@@ -125,7 +124,7 @@
 
   ---
 
-  ## // WAKATIME_TELEMETRY
+  ### WAKATIME TELEMETRY
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AaditPaniRVU&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e2e8f0&bg_color=0d0d0d&layout=compact" alt="WakaTime
@@ -136,7 +135,7 @@
 
   ---
 
-  ## // LIVE_FEED
+  ### LIVE FEED
 
   <div align="center">
 
@@ -152,25 +151,25 @@
 
   ---
 
-  ## // INFRASTRUCTURE_SURFACE
+  ### INFRASTRUCTURE SURFACE
 
   <div align="center">
   <table>
     <tr>
       <td align="left" valign="top" width="33%">
-        <strong>CONTAINER_OPS</strong><br/><br/>
+        <strong>CONTAINER OPS</strong><br/><br/>
         Docker · Compose · BuildKit<br/>
         Multi-stage builds<br/>
         Image optimization
       </td>
       <td align="left" valign="top" width="33%">
-        <strong>PIPELINE_INFRA</strong><br/><br/>
+        <strong>PIPELINE INFRA</strong><br/><br/>
         GitHub Actions · CI/CD<br/>
         Artifact registries<br/>
         Automated test gates
       </td>
       <td align="left" valign="top" width="33%">
-        <strong>EDGE_SYSTEMS</strong><br/><br/>
+        <strong>EDGE SYSTEMS</strong><br/><br/>
         Raspberry Pi · Jetson<br/>
         ARM64 inference<br/>
         TFLite · ONNX Runtime
@@ -181,7 +180,7 @@
 
   ---
 
-  ## // OPEN_CHANNEL
+  ### OPEN CHANNEL
 
   <div align="center">
 
