@@ -94,7 +94,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/AaditPani-RVU">
+        <a href="https://github.com/AaditPani-RVU/AaditPani-RVU">
           <img
   src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=AaditPani-RVU&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e2e8f0&bg_color=0d0d0d&icon_color=f59e0b"
   alt="AaditPani-RVU" />
@@ -178,10 +178,37 @@
 
   ---
 
+  ### PORTFOLIO_ENDPOINT
+
+  <div align="center">
+
+  <a href="https://portfolio.aadi-pani.workers.dev">
+    <img src="https://img.shields.io/badge/◈%20LIVE%20PORTFOLIO-portfolio.aadi--pani.workers.dev-00b4d8?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0d0d0d" height="38" alt="Live Portfolio" />
+  </a>
+
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center">
+        <code>$ curl -sI https://portfolio.aadi-pani.workers.dev | grep -E 'HTTP|cf-ray|server'</code><br/>
+        <code>HTTP/2 200 &nbsp;·&nbsp; server: cloudflare &nbsp;·&nbsp; runtime: workers &nbsp;·&nbsp; STATUS: LIVE</code>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  <sub><code>EDGE_ENDPOINT :: portfolio.aadi-pani.workers.dev · Cloudflare Workers · Global CDN · Zero Cold Start</code></sub>
+
+  </div>
+
+  ---
+
   ### OPEN CHANNEL
 
   <div align="center">
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00b4d8?style=flat-square&logo=cloudflare&logoColor=white)](https://portfolio.aadi-pani.workers.dev)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AaditPani-RVU)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pinky.mohapatra@gmail.com)
