@@ -83,27 +83,17 @@
 
   ### ACTIVE DEPLOYMENTS
 
-  <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/AaditPani-RVU/neurosym-ai">
-          <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=neurosym-ai&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e2e8f0&bg_color=0d0d0d&icon_color=f59e0b"
-  alt="neurosym-ai" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/AaditPani-RVU/AaditPani-RVU">
-          <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=AaditPani-RVU&theme=transparent&hide_border=true&title_color=00b4d8&text_color=e2e8f0&bg_color=0d0d0d&icon_color=f59e0b"
-  alt="AaditPani-RVU" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <sub><code>[ neurosym-ai ]</code> · neuro-symbolic rule engine · output guards · streaming · agent system</sub>
-  </div>
+ ## ACTIVE SYSTEMS
+
+<p align="center">
+<a href="https://github.com/AaditPani-RVU/neurosym-ai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=neurosym-ai&theme=transparent" />
+</a>
+
+<a href="https://github.com/AaditPani-RVU/N.O.R.A">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=N.O.R.A&theme=transparent" />
+</a>
+</p>
 
   ---
 
