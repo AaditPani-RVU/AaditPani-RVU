@@ -80,21 +80,20 @@
   </div>
 
   ---
-
-  ### ACTIVE DEPLOYMENTS
-
- ## ACTIVE SYSTEMS
+## ACTIVE SYSTEMS
 
 <p align="center">
-<a href="https://github.com/AaditPani-RVU/neurosym-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=neurosym-ai&theme=transparent" />
-</a>
-
-<a href="https://github.com/AaditPani-RVU/N.O.R.A">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=N.O.R.A&theme=transparent" />
-</a>
+  <a href="https://github.com/AaditPani-RVU/neurosym-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=neurosym-ai&theme=transparent" />
+  </a>
+  <a href="https://github.com/AaditPani-RVU/N.O.R.A">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=N.O.R.A&theme=transparent" />
+  </a>
 </p>
 
+<p align="center">
+  Neuro-Symbolic AI • Agent Systems • Local AI
+</p>
   ---
 
   ### AI SYSTEMS SURFACE
