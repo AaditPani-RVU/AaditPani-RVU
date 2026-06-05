@@ -83,7 +83,7 @@
 ## ACTIVE SYSTEMS
 
 <p align="center">
-  <a href="https://github.com/AaditPani-RVU/neurosym-ai">
+  <a href="https://github.com/AaditPani-RVU/NeuroSym-AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=neurosym-ai&theme=transparent" />
   </a>
   <a href="https://github.com/AaditPani-RVU/N.O.R.A">
