@@ -84,10 +84,11 @@
 
 <p align="center">
   <a href="https://github.com/AaditPani-RVU/NeuroSym-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=neurosym-ai&theme=transparent" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AaditPani-RVU&repo=NeuroSym-AI&theme=transparent" />
   </a>
+
   <a href="https://github.com/AaditPani-RVU/N.O.R.A">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaditPani-RVU&repo=N.O.R.A&theme=transparent" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AaditPani-RVU&repo=N.O.R.A&theme=transparent" />
   </a>
 </p>
 
