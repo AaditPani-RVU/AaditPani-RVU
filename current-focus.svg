@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 242" width="1200" height="242">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#121821"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="242" fill="#0b0f14"/>
+  <text x="2" y="19" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="10" font-weight="500" letter-spacing="4" fill="#48566a">CURRENT FOCUS</text>
+  <text x="1198" y="19" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="9" letter-spacing="1.5" fill="#e0a458" opacity="0.6">v2026.1</text>
+  <line x1="0" y1="30" x2="1200" y2="30" stroke="#202b36" stroke-width="1"/>
+  <rect x="0" y="46" width="1200" height="172" rx="6" fill="url(#card)" stroke="#202b36" stroke-width="1"/>
+  <rect x="0" y="46" width="36" height="2" rx="1" fill="#e0a458" opacity="0.9"/>
+  <text x="28" y="78" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="10" font-weight="600" letter-spacing="2" fill="#e0a458">BUILDING NOW</text>
+  <text x="608" y="78" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="10" font-weight="600" letter-spacing="2" fill="#7c8b9b">QUEUED NEXT</text>
+  <line x1="584" y1="64" x2="584" y2="200" stroke="#202b36" stroke-width="1"/>
+  <rect x="28" y="97" width="3" height="13" rx="1.5" fill="#e0a458" opacity="0.9"/>
+  <text x="44" y="108" font-family="'Inter',-apple-system,system-ui,sans-serif" font-size="12.5" fill="#e8ecf1">Neuro-symbolic LLM guardrails</text>
+  <rect x="28" y="123" width="3" height="13" rx="1.5" fill="#e0a458" opacity="0.9"/>
+  <text x="44" y="134" font-family="'Inter',-apple-system,system-ui,sans-serif" font-size="12.5" fill="#e8ecf1">CUDA kernel optimization</text>
+  <rect x="608" y="97" width="3" height="13" rx="1.5" fill="#3f5568" opacity="0.9"/>
+  <text x="624" y="108" font-family="'Inter',-apple-system,system-ui,sans-serif" font-size="12.5" fill="#7c8b9b">Edge inference pipeline arch</text>
+  <rect x="608" y="123" width="3" height="13" rx="1.5" fill="#3f5568" opacity="0.9"/>
+  <text x="624" y="134" font-family="'Inter',-apple-system,system-ui,sans-serif" font-size="12.5" fill="#7c8b9b">IDS anomaly detection models</text>
+</svg>

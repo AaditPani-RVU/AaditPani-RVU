@@ -15,8 +15,7 @@ jobs:
         with:
           github_user_name: AaditPani-RVU
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?palette=github
+            dist/github-contribution-grid-snake-dark.svg?color_snake=e8ecf1,e0a458&color_dots=#121821,#2a2016,#4a3319,#e0a458
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
