@@ -112,7 +112,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a2330?style=flat-square&logo=cloudflare&logoColor=e0a458)](https://portfolio.aadi-pani.workers.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-1a2330?style=flat-square&logo=github&logoColor=e0a458)](https://github.com/AaditPani-RVU)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a2330?style=flat-square&logo=linkedin&logoColor=e0a458)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-1a2330?style=flat-square&logo=gmail&logoColor=e0a458)](mailto:pinky.mohapatra@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1a2330?style=flat-square&logo=gmail&logoColor=e0a458)](mailto:aadi.pani@gmail.com)
 [![PyPI](https://img.shields.io/badge/PyPI-1a2330?style=flat-square&logo=pypi&logoColor=e0a458)](https://pypi.org/project/neurosym-ai/)
 
 </div>
