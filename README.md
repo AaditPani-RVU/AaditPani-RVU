@@ -14,7 +14,7 @@
   <img src="./divider.svg" alt="" width="360" />
 </div>
 
-### SYSTEM PULSE
+
 
 ### SYSTEM PULSE
 
