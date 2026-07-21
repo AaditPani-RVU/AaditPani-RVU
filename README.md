@@ -14,9 +14,9 @@
   <img src="./divider.svg" alt="" width="360" />
 </div>
 
-
-
-### SYSTEM PULSE
+<div align="center">
+  <img src="./frame-top-system-pulse.svg" alt="System Pulse" width="100%" />
+</div>
 
 <div align="center">
 <table>
@@ -35,10 +35,22 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AaditPani-RVU&layout=compact&theme=transparent&hide_border=true&title_color=e0a458&text_color=e8ecf1&bg_color=0b0f14&langs_count=8&hide=jupyter%20notebook,html" alt="Top Languages" width="860" />
 </div>
 
+<div align="center">
+  <img src="./frame-bottom.svg" alt="" width="100%" />
+</div>
+
 <br/>
 
 <div align="center">
+  <img src="./frame-top-contribution.svg" alt="Contribution Telemetry" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/AaditPani-RVU/AaditPani-RVU/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./frame-bottom.svg" alt="" width="100%" />
 </div>
 
 <div align="center">

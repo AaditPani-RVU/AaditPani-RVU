@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 46" width="1200" height="46">
+  <rect width="1200" height="46" fill="#0b0f14"/>
+  <text x="2" y="19" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="10" font-weight="500" letter-spacing="4" fill="#48566a">SYSTEM PULSE</text>
+  <text x="1198" y="19" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace" font-size="9" letter-spacing="1.5" fill="#e0a458" opacity="0.6">v2026.1</text>
+  <line x1="0" y1="30" x2="1200" y2="30" stroke="#202b36" stroke-width="1"/>
+  <path d="M 0 34 L 0 46" stroke="#e0a458" stroke-width="1.5" opacity="0.9"/>
+  <path d="M 0 34 L 16 34" stroke="#e0a458" stroke-width="1.5" opacity="0.9"/>
+  <path d="M 1200 34 L 1200 46" stroke="#e0a458" stroke-width="1.5" opacity="0.9"/>
+  <path d="M 1200 34 L 1184 34" stroke="#e0a458" stroke-width="1.5" opacity="0.9"/>
+</svg>

@@ -93,6 +93,7 @@ All custom SVGs must:
 - Use static SVG elements only: `<rect>`, `<circle>`, `<line>`, `<path>`, `<polygon>`, `<text>`, `<pattern>`
 - Specify fonts explicitly per the Typography section above
 - Keep files under 50KB; use `<path>` for the contour motif rather than hundreds of discrete elements
+- **NEVER** reference an external image inside a custom SVG via `<image href="...">` and expect it to render — browsers run `<img>`-loaded SVGs in a locked-down "image context" that blocks fetching further external resources. This is why System Pulse / Contribution Telemetry use separate top/bottom chrome files stacked around the third-party stat images in markdown, rather than one composite SVG containing everything.
 
 ---
 
@@ -102,8 +103,8 @@ All custom SVGs must:
 1. **Banner** — name, rotating role tagline, contour motif (replaces the old animated signal-bar + crosshair graphic)
 2. **Operator Profile** — ASCII portrait (generated from a real photo) + fetch-style bio panel
 3. **Current Focus** — one slim panel, only the genuinely true "what I'm building right now" list (the old fabricated STATUS/UPTIME/MODE and SIGNAL/geo cards are gone — they said nothing real)
-4. **System Pulse** — GitHub stats + streak + top languages, restyled to palette
-5. **Contribution Telemetry** — snake graph, restyled to palette
+4. **System Pulse** — GitHub stats + streak + top languages, restyled to palette, framed top/bottom with the same header-label + corner-bracket chrome used elsewhere (`frame-top-system-pulse.svg` / `frame-bottom.svg`)
+5. **Contribution Telemetry** — snake graph, restyled to palette, framed the same way (`frame-top-contribution.svg` / `frame-bottom.svg`)
 6. **Capabilities** — one unified, categorized badge list (merges the old separate Runtime Stack + Infrastructure Surface + AI Systems Surface tables into a single section, since they were all answering "what do you work with")
 7. **Active Systems** — pinned repos
 8. **Open Channel** — contact links, same two-tone badge treatment
@@ -133,6 +134,9 @@ AaditPani-RVU/
 ├── operator-profile.svg
 ├── current-focus.svg
 ├── divider.svg
+├── frame-top-system-pulse.svg   # header/corner chrome for the System Pulse card
+├── frame-top-contribution.svg   # header/corner chrome for the Contribution Telemetry card
+├── frame-bottom.svg             # shared closing corner chrome for both cards
 ├── 155768418.jpg            # source photo for the ASCII portrait
 └── .github/
     └── workflows/
