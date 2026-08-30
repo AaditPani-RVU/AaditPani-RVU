@@ -21,9 +21,9 @@
 <div align="center">
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AaditPani-RVU&show_icons=true&theme=transparent&hide_border=true&title_color=e0a458&icon_color=e0a458&text_color=e8ecf1&bg_color=0b0f14&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
+    <<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=AaditPani-RVU&show_icons=true&theme=transparent&hide_border=true&title_color=e0a458&icon_color=e0a458&text_color=e8ecf1&bg_color=0b0f14&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</td>
     <td>
       <img src="https://streak-stats.demolab.com?user=AaditPani-RVU&theme=transparent&hide_border=true&ring=e0a458&fire=e0a458&currStreakLabel=e8ecf1&sideLabels=7c8b9b&dates=7c8b9b&background=0b0f14" alt="GitHub Streak" />
     </td>
