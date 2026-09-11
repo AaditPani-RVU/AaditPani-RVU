@@ -18,11 +18,11 @@
   <img src="./frame-top-system-pulse.svg" alt="System Pulse" width="100%" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
 
-### GITHUB ACTIVITY
+<h3>GITHUB ACTIVITY</h3>
 
 <a href="https://github.com/AaditPani-RVU">
   <img
@@ -33,37 +33,37 @@
 
 </div>
 
-<br/>
+<br />
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center">
-
       <strong>PUBLIC REPOSITORIES</strong>
-      <br/><br/>
-
-      ![Repositories](https://img.shields.io/badge/Repositories-GitHub-1a2330?style=flat-square&logo=github&logoColor=e0a458)
-
+      <br /><br />
+      <img
+        src="https://img.shields.io/badge/Repositories-GitHub-1a2330?style=flat-square&logo=github&logoColor=e0a458"
+        alt="Repositories"
+      />
     </td>
 
     <td align="center">
-
       <strong>OPEN SOURCE</strong>
-      <br/><br/>
-
-      ![Open Source](https://img.shields.io/badge/Open%20Source-Active-1a2330?style=flat-square&logo=github&logoColor=e0a458)
-
+      <br /><br />
+      <img
+        src="https://img.shields.io/badge/Open%20Source-Active-1a2330?style=flat-square&logo=github&logoColor=e0a458"
+        alt="Open Source"
+      />
     </td>
 
     <td align="center">
-
       <strong>FOCUS</strong>
-      <br/><br/>
-
-      ![AI](https://img.shields.io/badge/AI%20Systems-Active-1a2330?style=flat-square&logo=python&logoColor=e0a458)
-
+      <br /><br />
+      <img
+        src="https://img.shields.io/badge/AI%20Systems-Active-1a2330?style=flat-square&logo=python&logoColor=e0a458"
+        alt="AI Systems"
+      />
     </td>
   </tr>
 </table>
@@ -74,7 +74,7 @@
   <img src="./frame-bottom.svg" alt="" width="100%" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
   <img src="./frame-top-contribution.svg" alt="Contribution Telemetry" width="100%" />
@@ -96,65 +96,72 @@
   <img src="./divider.svg" alt="" width="360" />
 </div>
 
-### CAPABILITIES
+<h3>CAPABILITIES</h3>
 
 <div align="center">
   <sub>
-    <code>
-      Edge Inference · Neuro-Symbolic AI · Computer Vision · Anomaly Detection · CUDA Optimization · Autonomous Pipelines · LLM Guardrails
-    </code>
+    <code>Edge Inference · Neuro-Symbolic AI · Computer Vision · Anomaly Detection · CUDA Optimization · Autonomous Pipelines · LLM Guardrails</code>
   </sub>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
 
 <sup><strong>INFERENCE RUNTIME</strong></sup>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-1a2330?style=flat-square&logo=pytorch&logoColor=e0a458)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a2330?style=flat-square&logo=tensorflow&logoColor=e0a458)
-![CUDA](https://img.shields.io/badge/CUDA-1a2330?style=flat-square&logo=nvidia&logoColor=e0a458)
-![ONNX](https://img.shields.io/badge/ONNX-1a2330?style=flat-square&logo=onnx&logoColor=e0a458)
-![TensorRT](https://img.shields.io/badge/TensorRT-1a2330?style=flat-square&logo=nvidia&logoColor=e0a458)
+<br /><br />
 
-<br/><br/>
+<img src="https://img.shields.io/badge/PyTorch-1a2330?style=flat-square&logo=pytorch&logoColor=e0a458" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-1a2330?style=flat-square&logo=tensorflow&logoColor=e0a458" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/CUDA-1a2330?style=flat-square&logo=nvidia&logoColor=e0a458" alt="CUDA" />
+<img src="https://img.shields.io/badge/ONNX-1a2330?style=flat-square&logo=onnx&logoColor=e0a458" alt="ONNX" />
+<img src="https://img.shields.io/badge/TensorRT-1a2330?style=flat-square&logo=nvidia&logoColor=e0a458" alt="TensorRT" />
+
+<br /><br />
 
 <sup><strong>SYSTEMS LAYER</strong></sup>
 
-![C++](https://img.shields.io/badge/C++-1a2330?style=flat-square&logo=cplusplus&logoColor=e0a458)
-![Python](https://img.shields.io/badge/Python-1a2330?style=flat-square&logo=python&logoColor=e0a458)
-![Linux](https://img.shields.io/badge/Linux-1a2330?style=flat-square&logo=linux&logoColor=e0a458)
-![Bash](https://img.shields.io/badge/Bash-1a2330?style=flat-square&logo=gnubash&logoColor=e0a458)
-![CMake](https://img.shields.io/badge/CMake-1a2330?style=flat-square&logo=cmake&logoColor=e0a458)
+<br /><br />
 
-<br/><br/>
+<img src="https://img.shields.io/badge/C%2B%2B-1a2330?style=flat-square&logo=cplusplus&logoColor=e0a458" alt="C++" />
+<img src="https://img.shields.io/badge/Python-1a2330?style=flat-square&logo=python&logoColor=e0a458" alt="Python" />
+<img src="https://img.shields.io/badge/Linux-1a2330?style=flat-square&logo=linux&logoColor=e0a458" alt="Linux" />
+<img src="https://img.shields.io/badge/Bash-1a2330?style=flat-square&logo=gnubash&logoColor=e0a458" alt="Bash" />
+<img src="https://img.shields.io/badge/CMake-1a2330?style=flat-square&logo=cmake&logoColor=e0a458" alt="CMake" />
+
+<br /><br />
 
 <sup><strong>INFRASTRUCTURE &amp; EDGE</strong></sup>
 
-![Docker](https://img.shields.io/badge/Docker-1a2330?style=flat-square&logo=docker&logoColor=e0a458)
-![Git](https://img.shields.io/badge/Git-1a2330?style=flat-square&logo=git&logoColor=e0a458)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a2330?style=flat-square&logo=githubactions&logoColor=e0a458)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a2330?style=flat-square&logo=raspberrypi&logoColor=e0a458)
-![Neovim](https://img.shields.io/badge/Neovim-1a2330?style=flat-square&logo=neovim&logoColor=e0a458)
+<br /><br />
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Docker-1a2330?style=flat-square&logo=docker&logoColor=e0a458" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-1a2330?style=flat-square&logo=git&logoColor=e0a458" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-1a2330?style=flat-square&logo=githubactions&logoColor=e0a458" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-1a2330?style=flat-square&logo=raspberrypi&logoColor=e0a458" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/Neovim-1a2330?style=flat-square&logo=neovim&logoColor=e0a458" alt="Neovim" />
+
+<br /><br />
 
 <sup><strong>DATA LAYER</strong></sup>
 
-![NumPy](https://img.shields.io/badge/NumPy-1a2330?style=flat-square&logo=numpy&logoColor=e0a458)
-![OpenCV](https://img.shields.io/badge/OpenCV-1a2330?style=flat-square&logo=opencv&logoColor=e0a458)
-![Pandas](https://img.shields.io/badge/Pandas-1a2330?style=flat-square&logo=pandas&logoColor=e0a458)
-![SQLite](https://img.shields.io/badge/SQLite-1a2330?style=flat-square&logo=sqlite&logoColor=e0a458)
+<br /><br />
+
+<img src="https://img.shields.io/badge/NumPy-1a2330?style=flat-square&logo=numpy&logoColor=e0a458" alt="NumPy" />
+<img src="https://img.shields.io/badge/OpenCV-1a2330?style=flat-square&logo=opencv&logoColor=e0a458" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Pandas-1a2330?style=flat-square&logo=pandas&logoColor=e0a458" alt="Pandas" />
+<img src="https://img.shields.io/badge/SQLite-1a2330?style=flat-square&logo=sqlite&logoColor=e0a458" alt="SQLite" />
 
 </div>
 
-### ACTIVE SYSTEMS
+<h3>ACTIVE SYSTEMS</h3>
 
 <div align="center">
 
 <table>
   <tr>
+
     <td align="center" width="50%">
 
       <a href="https://github.com/AaditPani-RVU/NeuroSym-AI">
@@ -164,22 +171,21 @@
         />
       </a>
 
-      <br/><br/>
+      <br /><br />
 
-      <sub>
-        <strong>NEURO-SYMBOLIC AI</strong>
-      </sub>
+      <strong>NEURO-SYMBOLIC AI</strong>
 
-      <br/>
+      <br /><br />
 
-      <sub>
-        Neuro-symbolic reasoning and AI systems
-      </sub>
+      <sub>Neuro-symbolic reasoning and AI systems</sub>
 
-      <br/><br/>
+      <br /><br />
 
       <a href="https://github.com/AaditPani-RVU/NeuroSym-AI">
-        ![GitHub](https://img.shields.io/badge/View%20Repository-202b36?style=flat-square&logo=github&logoColor=e0a458)
+        <img
+          src="https://img.shields.io/badge/View%20Repository-202b36?style=flat-square&logo=github&logoColor=e0a458"
+          alt="View Repository"
+        />
       </a>
 
     </td>
@@ -193,29 +199,29 @@
         />
       </a>
 
-      <br/><br/>
+      <br /><br />
 
-      <sub>
-        <strong>AGENT SYSTEMS</strong>
-      </sub>
+      <strong>AGENT SYSTEMS</strong>
 
-      <br/>
+      <br /><br />
 
-      <sub>
-        Autonomous agent systems and local AI
-      </sub>
+      <sub>Autonomous agent systems and local AI</sub>
 
-      <br/><br/>
+      <br /><br />
 
       <a href="https://github.com/AaditPani-RVU/N.O.R.A">
-        ![GitHub](https://img.shields.io/badge/View%20Repository-202b36?style=flat-square&logo=github&logoColor=e0a458)
+        <img
+          src="https://img.shields.io/badge/View%20Repository-202b36?style=flat-square&logo=github&logoColor=e0a458"
+          alt="View Repository"
+        />
       </a>
 
     </td>
+
   </tr>
 </table>
 
-<br/>
+<br />
 
 <sub>
   <code>Neuro-Symbolic AI · Agent Systems · Local AI</code>
@@ -227,37 +233,64 @@
   <img src="./divider.svg" alt="" width="360" />
 </div>
 
-### OPEN CHANNEL
+<h3>OPEN CHANNEL</h3>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a2330?style=flat-square&logo=cloudflare&logoColor=e0a458)](https://portfolio.aadi-pani.workers.dev)
+<a href="https://portfolio.aadi-pani.workers.dev">
+  <img
+    src="https://img.shields.io/badge/Portfolio-1a2330?style=flat-square&logo=cloudflare&logoColor=e0a458"
+    alt="Portfolio"
+  />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a2330?style=flat-square&logo=github&logoColor=e0a458)](https://github.com/AaditPani-RVU)
+<a href="https://github.com/AaditPani-RVU">
+  <img
+    src="https://img.shields.io/badge/GitHub-1a2330?style=flat-square&logo=github&logoColor=e0a458"
+    alt="GitHub"
+  />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a2330?style=flat-square&logo=linkedin&logoColor=e0a458)](https://linkedin.com)
+<a href="https://linkedin.com">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-1a2330?style=flat-square&logo=linkedin&logoColor=e0a458"
+    alt="LinkedIn"
+  />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-1a2330?style=flat-square&logo=gmail&logoColor=e0a458)](mailto:aadi.pani@gmail.com)
+<a href="mailto:aadi.pani@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-1a2330?style=flat-square&logo=gmail&logoColor=e0a458"
+    alt="Email"
+  />
+</a>
 
-[![PyPI](https://img.shields.io/badge/PyPI-1a2330?style=flat-square&logo=pypi&logoColor=e0a458)](https://pypi.org/project/neurosym-ai/)
+<a href="https://pypi.org/project/neurosym-ai/">
+  <img
+    src="https://img.shields.io/badge/PyPI-1a2330?style=flat-square&logo=pypi&logoColor=e0a458"
+    alt="PyPI"
+  />
+</a>
 
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="./divider.svg" alt="" width="220" />
 
-  <br/>
+<img src="./divider.svg" alt="" width="220" />
 
-  <sub>
-    <code>AaditPani-RVU/AaditPani-RVU · v2026.1</code>
-  </sub>
+<br />
 
-  <br/><br/>
+<sub>
+  <code>AaditPani-RVU/AaditPani-RVU · v2026.1</code>
+</sub>
 
-  <img
-    src="https://komarev.com/ghpvc/?username=AaditPani-RVU&style=flat-square&color=e0a458&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
+<br /><br />
+
+<img
+  src="https://komarev.com/ghpvc/?username=AaditPani-RVU&style=flat-square&color=e0a458&label=PROFILE+VIEWS"
+  alt="Profile Views"
+/>
+
 </div>
