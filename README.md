@@ -20,6 +20,88 @@
 
 <br>
 
+<h3>LANGUAGES &amp; TOOLS</h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="left" width="33%">
+
+<strong>PROGRAMMING LANGUAGES</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,bash" alt="Python, C++, JavaScript, TypeScript, Bash">
+
+</td>
+
+<td align="left" width="33%">
+
+<strong>AI / MACHINE LEARNING</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV">
+
+<br><br>
+
+<code>scikit-learn</code>
+
+</td>
+
+<td align="left" width="33%">
+
+<strong>INFERENCE / COMPUTE</strong>
+
+<br><br>
+
+<code>CUDA · ONNX · TensorRT</code>
+
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+<strong>DEVOPS &amp; INFRASTRUCTURE</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions" alt="Docker, Git, GitHub Actions">
+
+</td>
+
+<td align="left">
+
+<strong>SYSTEMS &amp; EDGE</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,cmake,raspberrypi,neovim" alt="Linux, CMake, Raspberry Pi, Neovim">
+
+</td>
+
+<td align="left">
+
+<strong>DATA</strong>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite">
+
+<br><br>
+
+<code>NumPy · Pandas</code>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
 <h3 align="center">GITHUB ACTIVITY</h3>
 
 <div align="center">
